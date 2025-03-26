@@ -1,0 +1,12 @@
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\bin\Debug\Atividade DS.exe.config
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\bin\Debug\Atividade DS.exe
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\bin\Debug\Atividade DS.pdb
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade DS.csproj.AssemblyReference.cache
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade_DS.frmsorteio.resources
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade_DS.Properties.Resources.resources
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade DS.csproj.GenerateResource.cache
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade DS.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade DS.exe
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade DS.pdb
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade_DS.frmmedia.resources
+F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade_DS.frmmenu.resources
