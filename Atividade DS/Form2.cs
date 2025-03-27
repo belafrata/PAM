@@ -12,6 +12,9 @@ namespace Atividade_DS
 {
     public partial class frmmedia : Form
     {
+        int[] vetorNotas = new int[5];
+        int i, soma = 0, x;
+
         public frmmedia()
         {
             InitializeComponent();
@@ -19,24 +22,35 @@ namespace Atividade_DS
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            int[] vetorNotas = new int[5];
-            int i, soma = 0, x;
+            txtmedia.Text = (soma/5).ToString();
+        }
 
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmmenu menu = new frmmenu();
+            menu.Show();
+        }
+
+        private void btnlimpar_Click(object sender, EventArgs e)
+        {
+            soma = 0;
+            txtmedia.Clear();
+            txtnota.Clear();
+            txtnota.Focus();
+        }
+
+        private void btninserir_Click(object sender, EventArgs e)
+        {
             for (i = 0; i < 5; i++)
             {
                 x = Convert.ToInt32(txtnota.Text);
                 vetorNotas[i] = x;
                 soma = soma + vetorNotas[i];
+                txtnota.Clear();
+                txtnota.Focus();
+                break;
             }
-
-            txtmedia.Text = (soma/5).ToString();
-        }
-
-        private void btnlimpar_Click(object sender, EventArgs e)
-        {
-            txtmedia.Clear();
-            txtnota.Clear();
-            txtnota.Focus();
         }
     }
 }

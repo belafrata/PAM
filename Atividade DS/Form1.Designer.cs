@@ -32,17 +32,18 @@
             this.txtsorteio = new System.Windows.Forms.TextBox();
             this.btnsorteia = new System.Windows.Forms.Button();
             this.btnlimpar = new System.Windows.Forms.Button();
+            this.btnvoltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblsorteio
             // 
             this.lblsorteio.AutoSize = true;
             this.lblsorteio.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblsorteio.Location = new System.Drawing.Point(244, 64);
+            this.lblsorteio.Location = new System.Drawing.Point(251, 64);
             this.lblsorteio.Name = "lblsorteio";
-            this.lblsorteio.Size = new System.Drawing.Size(298, 24);
+            this.lblsorteio.Size = new System.Drawing.Size(273, 24);
             this.lblsorteio.TabIndex = 0;
-            this.lblsorteio.Text = "Sorteie um número de 0 à 100:";
+            this.lblsorteio.Text = "Sorteie números de 0 à 100:";
             // 
             // txtsorteio
             // 
@@ -58,7 +59,7 @@
             // btnsorteia
             // 
             this.btnsorteia.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnsorteia.Location = new System.Drawing.Point(201, 305);
+            this.btnsorteia.Location = new System.Drawing.Point(322, 305);
             this.btnsorteia.Name = "btnsorteia";
             this.btnsorteia.Size = new System.Drawing.Size(127, 65);
             this.btnsorteia.TabIndex = 2;
@@ -69,7 +70,7 @@
             // btnlimpar
             // 
             this.btnlimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnlimpar.Location = new System.Drawing.Point(436, 305);
+            this.btnlimpar.Location = new System.Drawing.Point(139, 305);
             this.btnlimpar.Name = "btnlimpar";
             this.btnlimpar.Size = new System.Drawing.Size(127, 65);
             this.btnlimpar.TabIndex = 3;
@@ -77,11 +78,23 @@
             this.btnlimpar.UseVisualStyleBackColor = true;
             this.btnlimpar.Click += new System.EventHandler(this.btnlimpar_Click);
             // 
+            // btnvoltar
+            // 
+            this.btnvoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnvoltar.Location = new System.Drawing.Point(504, 305);
+            this.btnvoltar.Name = "btnvoltar";
+            this.btnvoltar.Size = new System.Drawing.Size(127, 65);
+            this.btnvoltar.TabIndex = 8;
+            this.btnvoltar.Text = "Voltar";
+            this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
+            // 
             // frmsorteio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnvoltar);
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.btnsorteia);
             this.Controls.Add(this.txtsorteio);
@@ -100,6 +113,7 @@
         private System.Windows.Forms.TextBox txtsorteio;
         private System.Windows.Forms.Button btnsorteia;
         private System.Windows.Forms.Button btnlimpar;
+        private System.Windows.Forms.Button btnvoltar;
     }
 }
 

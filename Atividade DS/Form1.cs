@@ -47,5 +47,12 @@ namespace Atividade_DS
         {
             txtsorteio.Clear();
         }
+
+        private void btnvoltar_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frmmenu menu = new frmmenu();
+            menu.Show();
+        }
     }
 }

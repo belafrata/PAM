@@ -10,3 +10,15 @@ F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividad
 F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade DS.pdb
 F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade_DS.frmmedia.resources
 F:\2A-DS-PI\Isabela e Beatriz\DS\C#\Atividade DS\Atividade DS\obj\Debug\Atividade_DS.frmmenu.resources
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade DS.csproj.AssemblyReference.cache
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade_DS.frmsorteio.resources
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade_DS.frmmedia.resources
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade_DS.frmmenu.resources
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade_DS.Properties.Resources.resources
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade DS.csproj.GenerateResource.cache
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade DS.csproj.CoreCompileInputs.cache
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade DS.exe
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\Atividade DS.pdb
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\bin\Debug\Atividade DS.exe.config
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\bin\Debug\Atividade DS.exe
+C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\bin\Debug\Atividade DS.pdb

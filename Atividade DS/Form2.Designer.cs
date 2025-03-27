@@ -34,6 +34,8 @@
             this.txtmedia = new System.Windows.Forms.TextBox();
             this.btnlimpar = new System.Windows.Forms.Button();
             this.btncalcular = new System.Windows.Forms.Button();
+            this.btninserir = new System.Windows.Forms.Button();
+            this.btnvoltar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblnota
@@ -76,7 +78,7 @@
             // btnlimpar
             // 
             this.btnlimpar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnlimpar.Location = new System.Drawing.Point(440, 346);
+            this.btnlimpar.Location = new System.Drawing.Point(421, 346);
             this.btnlimpar.Name = "btnlimpar";
             this.btnlimpar.Size = new System.Drawing.Size(127, 65);
             this.btnlimpar.TabIndex = 4;
@@ -87,7 +89,7 @@
             // btncalcular
             // 
             this.btncalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btncalcular.Location = new System.Drawing.Point(221, 346);
+            this.btncalcular.Location = new System.Drawing.Point(58, 346);
             this.btncalcular.Name = "btncalcular";
             this.btncalcular.Size = new System.Drawing.Size(127, 65);
             this.btncalcular.TabIndex = 5;
@@ -95,11 +97,35 @@
             this.btncalcular.UseVisualStyleBackColor = true;
             this.btncalcular.Click += new System.EventHandler(this.btncalcular_Click);
             // 
+            // btninserir
+            // 
+            this.btninserir.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btninserir.Location = new System.Drawing.Point(237, 346);
+            this.btninserir.Name = "btninserir";
+            this.btninserir.Size = new System.Drawing.Size(127, 65);
+            this.btninserir.TabIndex = 6;
+            this.btninserir.Text = "Inserir";
+            this.btninserir.UseVisualStyleBackColor = true;
+            this.btninserir.Click += new System.EventHandler(this.btninserir_Click);
+            // 
+            // btnvoltar
+            // 
+            this.btnvoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnvoltar.Location = new System.Drawing.Point(595, 346);
+            this.btnvoltar.Name = "btnvoltar";
+            this.btnvoltar.Size = new System.Drawing.Size(127, 65);
+            this.btnvoltar.TabIndex = 7;
+            this.btnvoltar.Text = "Voltar";
+            this.btnvoltar.UseVisualStyleBackColor = true;
+            this.btnvoltar.Click += new System.EventHandler(this.btnvoltar_Click);
+            // 
             // frmmedia
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnvoltar);
+            this.Controls.Add(this.btninserir);
             this.Controls.Add(this.btncalcular);
             this.Controls.Add(this.btnlimpar);
             this.Controls.Add(this.txtmedia);
@@ -122,5 +148,7 @@
         private System.Windows.Forms.TextBox txtmedia;
         private System.Windows.Forms.Button btnlimpar;
         private System.Windows.Forms.Button btncalcular;
+        private System.Windows.Forms.Button btninserir;
+        private System.Windows.Forms.Button btnvoltar;
     }
 }
