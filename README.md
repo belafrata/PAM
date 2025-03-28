@@ -1,3 +1,5 @@
+DUPLA: Isabela Frata Santos e Ana Beatriz de Sousa Silva
+
 ![Passo 1](Passo1.png)
 
 *No primeiro passo, use 'git config --global' para configurar o usuário*
