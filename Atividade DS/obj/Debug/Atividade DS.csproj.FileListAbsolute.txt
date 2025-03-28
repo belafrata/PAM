@@ -22,3 +22,15 @@ C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\obj\Debug\A
 C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\bin\Debug\Atividade DS.exe.config
 C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\bin\Debug\Atividade DS.exe
 C:\Users\ifrat\OneDrive\Área de Trabalho\projeto nivia\Atividade DS\bin\Debug\Atividade DS.pdb
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\bin\Debug\Atividade DS.exe.config
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\bin\Debug\Atividade DS.exe
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\bin\Debug\Atividade DS.pdb
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade DS.csproj.AssemblyReference.cache
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade_DS.frmsorteio.resources
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade_DS.frmmedia.resources
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade_DS.frmmenu.resources
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade_DS.Properties.Resources.resources
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade DS.csproj.GenerateResource.cache
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade DS.csproj.CoreCompileInputs.cache
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade DS.exe
+C:\Users\2ds\Desktop\ProjetoDS\PAM\Atividade DS\obj\Debug\Atividade DS.pdb

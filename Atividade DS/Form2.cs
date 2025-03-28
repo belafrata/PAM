@@ -22,7 +22,7 @@ namespace Atividade_DS
 
         private void btncalcular_Click(object sender, EventArgs e)
         {
-            txtmedia.Text = (soma/5).ToString();
+            txtmedia.Text = (soma/30).ToString();
         }
 
         private void btnvoltar_Click(object sender, EventArgs e)
@@ -42,7 +42,7 @@ namespace Atividade_DS
 
         private void btninserir_Click(object sender, EventArgs e)
         {
-            for (i = 0; i < 5; i++)
+            for (i = 0; i < 30; i++)
             {
                 x = Convert.ToInt32(txtnota.Text);
                 vetorNotas[i] = x;
